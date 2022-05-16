@@ -1,2 +1,1 @@
 # javaChat
-# GaySecurity
